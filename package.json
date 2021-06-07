@@ -1,0 +1,19 @@
+{
+  "name": "op-games-nft-viewer-api",
+  "version": "1.0.0",
+  "description": "Open source API for viewing OP Games NFTs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alto-io/op-games-nft-viewer-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alto-io/op-games-nft-viewer-api/issues"
+  },
+  "homepage": "https://github.com/alto-io/op-games-nft-viewer-api#readme"
+}
