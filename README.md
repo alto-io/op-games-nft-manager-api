@@ -24,4 +24,4 @@ From inside project directory:
 
 Go to your favorite web browser and type `localhost:2002` then you should see this response `"Welcome to OPGames!"`
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/alto-io/game3.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/alto-io/op-games-nft-manager-api/blob/master/LICENSE)
