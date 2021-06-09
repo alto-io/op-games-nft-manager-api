@@ -16,6 +16,7 @@ With this microservice API, you should be able to retreive the NFTs you owned fr
 
 ### 3. Run the API
 From inside project directory:
+<br>Make your own .env file from the .env.sample file.
 <br>(it's also important that you also install the packages that are listed in devDependencies)
 * `npm install`
 * `npm run dev`
